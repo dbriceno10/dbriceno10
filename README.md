@@ -6,7 +6,7 @@ Hi, I'm Daniel, Font-end developer, I have completed my training thanks to the I
 
 Skills: HTML / CSS / JavaScript / React JS/ Node JS / Git / Figma / Canva
 
-- 🔭 I’m currently working on https://dbriceno10.github.io/portfolio/#/about 
+- 🔭 I’m currently working on https://dbriceno10.github.io/portfolio/#/ 
 - 🌱 I’m currently learning React JS, Node JS, JavaScript, Figma 
 - 👯 I’m looking to collaborate on Let's start a new project together, I want to collaborate to materialize that idea into a successful project. 
 - 📫 How to reach me: Telegram: https://t.me/dbriceno 
