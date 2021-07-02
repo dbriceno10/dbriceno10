@@ -1,4 +1,4 @@
-### Hi there 👋, Hi, my name is Daniel Briceño
+### Hi, my name is Daniel Briceño 👋
 #### I'm a Front-end Developer.
 ![I'm a Front-end Developer.](https://thumbs.dreamstime.com/z/programaci%C3%B3n-de-scripting-y-banners-concepto-desarrollo-codificaci%C3%B3n-secuencias-comandos-sitios-web-conceptos-independientes-200300086.jpg)
 
