@@ -1,6 +1,7 @@
 ### Hi, my name is Daniel Briceño 👋
 #### I'm a Front-end Developer.
-![I'm a Front-end Developer.](https://thumbs.dreamstime.com/z/programaci%C3%B3n-de-scripting-y-banners-concepto-desarrollo-codificaci%C3%B3n-secuencias-comandos-sitios-web-conceptos-independientes-200300086.jpg)
+![I'm a Front-end Developer.]![Uploading programación-de-scripting-y-banners-concepto-desarrollo-codificación-secuencias-comandos-sitios-web-conceptos-independientes-200300086.jpg…]()
+
 
 Hi, I'm Daniel, Font-end developer, I have completed my training thanks to the IBM CAD101EN course: Introduction to Cloud Development with HTML, CSS, and JavaScript. I am passionate about technologies and tools for the web, JavaScript enthusiast, although especially for React Js, since I started using it I couldn't stop, I love it. I’m currently available for technology work. If you have a collaborative project work looking for a profile like mine, then get in touch.
 
