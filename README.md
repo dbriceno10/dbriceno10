@@ -1,11 +1,11 @@
-### Hi, my name is Daniel Briceño 👋
-#### I'm a Front-end Developer.
-![I'm a Front-end Developer.](https://i.pinimg.com/564x/c9/e5/a0/c9e5a008f86a4967b5d79f8303f5a34f.jpg)
+### Hola, mi nombre es Daniel Briceño 👋
+#### Soy Full-Stack Developer.
+![Soy Full-Stack Developer.](https://i.pinimg.com/564x/c9/e5/a0/c9e5a008f86a4967b5d79f8303f5a34f.jpg)
 
 
-Hi, I'm Daniel, Font-end developer, I have completed my training thanks to the IBM CAD101EN course: Introduction to Cloud Development with HTML, CSS, and JavaScript. I am passionate about technologies and tools for the web, JavaScript enthusiast, although especially for React Js, since I started using it I couldn't stop, I love it. I’m currently available for technology work. If you have a collaborative project work looking for a profile like mine, then get in touch.
+Hola, mi nombre es Daniel Briceño, Frontend Developer, actualmente formándome como fullstack web developer en Henry, donde también me desempeño como Teacher Assistant. Soy entusiasta de la educación digital y apasionado de la educación efectiva, del rápido aprendizaje y del crecimiento personal y profesional, me encanta crear productos digitales. Aunque mi especialidad es frontend, hoy me estoy desarrollando como especialista en backend y de base de datos para ser un fullstack web developer. La comunicación y el trabajo en equipo es para mí escencial para poder crecer como desarrollador. Soy proacivo y metódico, siempre busco nuevos retos y me adapto fácilmente a los cambios, estoy abierto a aprender nuevas tecnologías y lenguajes.
 
-Skills: HTML / CSS / JavaScript / React JS/ Node JS / Git / Figma / Canva / Express / MongoDB
+Skills: HTML / CSS / JavaScript / React JS / React-Redux / Node JS / Git / Figma / Canva / Express / MongoDB / PosgreSQL / Sequelize
 
 - 🔭 I’m currently working on https://dbriceno10.github.io/portfolio/ 
 - 🌱 I’m currently learning React JS, Node JS, JavaScript, Figma, Express, MongoDB
