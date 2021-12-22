@@ -3,11 +3,13 @@
 
 <img src="./img/linkedin-baner.png"/>
 
+Hola 🖐️😉, mi nombre es Daniel Briceño, Frontend Developer, actualmente formándome como FullStack web developer en Henry, donde también me desempeño como Teacher Assistant para Fullstack JavaScript Developer 💻🤓.
 
+Soy entusiasta de la educación digital y apasionado de la educación efectiva 💻🤓, del rápido aprendizaje y del crecimiento personal y profesional, me encanta crear productos digitales. Aunque mi especialidad es frontend, hoy me estoy desarrollando como especialista en backend para ser un fullstack web javascript developer. 📲💻📲💻📲💻 
 
-Hola, mi nombre es Daniel Briceño, Frontend Developer, actualmente formándome como fullstack web developer en Henry, donde también me desempeño como Teacher Assistant. Soy entusiasta de la educación digital y apasionado de la educación efectiva, del rápido aprendizaje y del crecimiento personal y profesional, me encanta crear productos digitales. Aunque mi especialidad es frontend, hoy me estoy desarrollando como especialista en backend y de base de datos para ser un fullstack web developer. La comunicación y el trabajo en equipo es para mí escencial para poder crecer como desarrollador. Soy proacivo y metódico, siempre busco nuevos retos y me adapto fácilmente a los cambios, estoy abierto a aprender nuevas tecnologías y lenguajes.
+La comunicación y el trabajo en equipo es para mí esencial para poder crecer como desarrollador. Soy proactivo y metódico, siempre busco nuevos retos y me adapto fácilmente a los cambios, estoy abierto a aprender nuevas tecnologías y lenguajes.
 
-Skills: HTML / CSS / JavaScript / React JS / React-Redux / Node JS / Git / Figma / Canva / Express / MongoDB / PosgreSQL / Sequelize
+✅ Mis Skills: HTML, CSS, JavaScript, React JS, React-Redux, TypeScript, Bootstrap, Less, Node JS, Express, SQL, PostgreSQL, Sequelize, MongoDB, Mongoose, JsonWebToken, Figma, Git.
 
 <h3 align="left">Tecnologías:</h3>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
