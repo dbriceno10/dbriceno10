@@ -30,7 +30,7 @@ Skills: HTML / CSS / JavaScript / React JS / React-Redux / Node JS / Git / Figma
 
 - 🔭 Puedes ver más de mis proyetos en: https://dbriceno10.github.io/portfolio/ 
 - 🌱 Sigo aprendiendo React JS, Node JS, JavaScript, Figma, Express, MongoDB, PostgreSQL, Sequelize, TypeScript
-- 👯 Deseo Aprender React-Native, Python, Ruby, Go, Angular JS, Vue JS
+- 👯 Deseo Aprender Angular JS, Vue JS, React-Native, Python Java, Ruby, Go.
 - 📫 ¿Cómo contactarme?
 - ✅ Telegram: https://t.me/dbriceno
 - ✅ Linkedin: https://www.linkedin.com/in/dbriceno10/
