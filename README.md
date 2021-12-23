@@ -3,7 +3,7 @@
 
 <img src="./img/linkedin-baner.png"/>
 
-Hola 🖐️😉, mi nombre es Daniel Briceño, Frontend Developer, actualmente formándome como FullStack web developer en Henry, donde también me desempeño como Teacher Assistant para Fullstack JavaScript Developer 💻🤓.
+Hola 🖐️😉, mi nombre es Daniel Briceño, Frontend Developer, actualmente formándome como FullStack web developer en Henry, donde también me desempeño como Full-Stack Teching Assistant 💻🤓.
 
 Soy entusiasta de la educación digital y apasionado de la educación efectiva 💻🤓, del rápido aprendizaje y del crecimiento personal y profesional, me encanta crear productos digitales. Aunque mi especialidad es frontend, hoy me estoy desarrollando como especialista en backend para ser un fullstack web javascript developer. 📲💻📲💻📲💻 
 
