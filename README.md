@@ -37,6 +37,7 @@ La comunicación y el trabajo en equipo es para mí esencial para poder crecer c
 - ✅ Telegram: https://t.me/dbriceno
 - ✅ Linkedin: https://www.linkedin.com/in/dbriceno10/
 - ✅ Portafolio: https://dbriceno10.github.io/portfolio/#/contact
+- ✅ Correo: dbriceno10dev@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dbriceno10)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dbriceno10/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dbriceno10.github.io/portfolio/#/contact)  
