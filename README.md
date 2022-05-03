@@ -10,7 +10,7 @@ Soy entusiasta de la educación digital y apasionado de la educación efectiva �
 
 La comunicación y el trabajo en equipo es para mí esencial para poder crecer como desarrollador. Soy proactivo y metódico, siempre busco nuevos retos y me adapto fácilmente a los cambios, estoy abierto a aprender nuevas tecnologías y lenguajes.
 
-✅ Mis Skills: HTML, CSS, JavaScript, React JS, React-Redux, TypeScript, Bootstrap, Less, Node JS, Express, SQL, PostgreSQL, Sequelize, MongoDB, Mongoose, JsonWebToken, Figma, Git.
+✅ Mis Skills: HTML, CSS, JavaScript, React JS, React-Redux, TypeScript, Bootstrap, Less, Next Js, Node JS, Express, GraphQL, SQL, PostgreSQL, Sequelize, MongoDB, Mongoose, JsonWebToken, Figma, Git.
 
 <h3 align="left">Tecnologías:</h3>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" title="JavaScript" width="40" height="40"/> </a> 
@@ -37,7 +37,7 @@ La comunicación y el trabajo en equipo es para mí esencial para poder crecer c
 </br>
 
 - 🔭 Puedes ver más de mis proyetos en: https://dbriceno10.github.io/portfolio/
-- 🌱 Sigo aprendiendo React JS, Node JS, JavaScript, Figma, Express, MongoDB, PostgreSQL, Sequelize, TypeScript
+- 🌱 Sigo aprendiendo React JS, Node JS, JavaScript, Figma, Express, MongoDB, PostgreSQL, Sequelize, TypeScript, Next Js, GraphQL.
 - 👯 Deseo Aprender Angular JS, Vue JS, React-Native, Python Java, Ruby, Go.
 - 📫 ¿Cómo contactarme?
 - ✅ Telegram: https://t.me/dbriceno
