@@ -37,7 +37,7 @@ La comunicación y el trabajo en equipo es para mí esencial para poder crecer c
 
 </br>
 
-- 🔭 Puedes ver más de mis proyetos en: https://dbriceno10.github.io/portfolio/
+- 🔭 Puedes ver más de mis proyectos en: https://dbriceno10.github.io/portfolio/
 - 🌱 Sigo aprendiendo React JS, Node JS, JavaScript, Figma, Express, MongoDB, PostgreSQL, Sequelize, TypeScript, Next Js, GraphQL.
 - 👯 Deseo Aprender Angular JS, Vue JS, React-Native, Python Java, Ruby, Go.
 - 📫 ¿Cómo contactarme?
